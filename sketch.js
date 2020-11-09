@@ -38,10 +38,10 @@ function draw() {
   //textSize(20)
   fill("black")
   //stroke("white")
-  text("PRESS UP_ARROW KEY TO FEED DRAGO MIKI",120,150)
+  text("PRESS UP_ARROW KEY TO FEED DRAGO MIKI",120,50)
  
   fill("black")
-  text("FOOD STOCK:"+foodS,50,250)
+  text("FOOD STOCK:"+foodS,50,450)
 
 }
 
